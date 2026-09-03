@@ -41,7 +41,7 @@ h1{
 }
 
 h1 span{
-    color: #9747FF;
+    color: blue;
 }
 
 p{
@@ -57,7 +57,7 @@ a{
     font-family: 'Poppins', sans-serif;
     font-size: 24px;
     text-decoration: none;
-    background-color: #9747FF;
+    background-color: blue;
     height: 66px;
     width: 340px;
     display: block;
@@ -68,7 +68,8 @@ a{
 }
 
 a:hover{
-    background-color: #8233E8;
+    background-color: aqua;
+    color: black;
 }
 
 section img{
